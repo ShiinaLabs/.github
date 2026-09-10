@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shiinalabs.com">
-    <img src="https://shiinalabs.com/logo.svg" alt="Shiina Labs" width="96">
+    <img src="https://shiinalabs.com/logo-default.png" alt="Shiina Labs" width="96">
   </a>
 </p>
 
@@ -63,7 +63,7 @@ We keep the surface area small and spend time on the details people use every da
 ## For developers
 
 - [WiFi Lens](https://github.com/ShiinaLabs/wifi-lens), an Apache 2.0 macOS network diagnostics app
-- [ChartLens](https://github.com/SHIINASAMA/chart-lens), a SwiftUI chart library extracted from WiFi Lens
+- [ChartLens](https://github.com/ShiinaLabs/chart-lens), a SwiftUI chart library extracted from WiFi Lens
 - [Homebrew Casks](https://github.com/ShiinaLabs/homebrew-apps) for ShiinaLabs applications
 
 ## Find Shiina Labs
