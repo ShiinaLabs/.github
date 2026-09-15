@@ -40,7 +40,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://shiinalabs.com">TinyPlanet</a></h3>
+      <h3><a href="https://shiinalabs.com">Tiny Planet: Little World</a></h3>
       <p>A small world that changes with real time. Offline, private, and made to revisit.</p>
       <p>
         <a href="https://shiinalabs.com">Learn more</a>
@@ -64,7 +64,7 @@ We keep the surface area small and spend time on the details people use every da
 
 - [WiFi Lens](https://github.com/ShiinaLabs/wifi-lens), an Apache 2.0 macOS network diagnostics app
 - [ChartLens](https://github.com/ShiinaLabs/chart-lens), a SwiftUI chart library extracted from WiFi Lens
-- [Homebrew Casks](https://github.com/ShiinaLabs/homebrew-apps) for ShiinaLabs applications
+- [Homebrew Casks](https://github.com/ShiinaLabs/homebrew-apps) for Shiina Labs applications
 
 ## Find Shiina Labs
 
