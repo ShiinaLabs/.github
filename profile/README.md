@@ -40,10 +40,28 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://shiinalabs.com">Tiny Planet: Little World</a></h3>
+      <h3><a href="https://apps.apple.com/app/id6776590746">WiFi Lens Pro</a></h3>
+      <p>The full-featured Wi-Fi analyzer for Mac, with deeper diagnostics and network insight.</p>
+      <p>
+        <a href="https://apps.apple.com/app/id6776590746">App Store</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://shiinalabs.com/tiny-planet/">Tiny Planet: Little World</a></h3>
       <p>A small world that changes with real time. Offline, private, and made to revisit.</p>
       <p>
-        <a href="https://shiinalabs.com">Learn more</a>
+        <a href="https://shiinalabs.com/tiny-planet/">Learn more</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://shiinalabs.com/kipless/">Kipless</a></h3>
+      <p>A lightweight macOS menu bar utility for controlling system and display sleep.</p>
+      <p>
+        <a href="https://shiinalabs.com/kipless/">Product page</a>
+        ·
+        <a href="https://github.com/ShiinaLabs/Kipless/releases/latest">Releases</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -55,6 +73,13 @@
     </td>
   </tr>
 </table>
+
+## Sites
+
+- [Shiina Labs](https://shiinalabs.com) — the studio's main site and product home.
+- [Go](https://go.shiinalabs.com) — a quiet multilingual web search page.
+- [WiFi Lens](https://wifi-lens.shiinalabs.com) — the Wi-Fi diagnostics product site.
+- [Shiina Play](https://play.shiinalabs.com) — the browser game platform.
 
 ## How we build
 
