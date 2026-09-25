@@ -29,21 +29,14 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://wifi-lens.shiinalabs.com">WiFi Lens</a></h3>
-      <p>Understand your Mac's Wi-Fi connection, signal, channels, and network health.</p>
-      <p>
-        <a href="https://wifi-lens.shiinalabs.com">Website</a>
-        ·
-        <a href="https://github.com/ShiinaLabs/wifi-lens">Open source</a>
-        ·
-        <a href="https://apps.apple.com/app/id6776590746">Pro</a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
       <h3><a href="https://apps.apple.com/app/id6776590746">WiFi Lens Pro</a></h3>
       <p>The full-featured Wi-Fi analyzer for Mac, with deeper diagnostics and network insight.</p>
       <p>
         <a href="https://apps.apple.com/app/id6776590746">App Store</a>
+        ·
+        <a href="https://wifi-lens.shiinalabs.com">Website</a>
+        ·
+        <a href="https://github.com/ShiinaLabs/wifi-lens">Open source</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -53,8 +46,6 @@
         <a href="https://shiinalabs.com/tiny-planet/">Learn more</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <h3><a href="https://shiinalabs.com/kipless/">Kipless</a></h3>
       <p>A lightweight macOS menu bar utility for controlling system and display sleep.</p>
@@ -64,6 +55,8 @@
         <a href="https://github.com/ShiinaLabs/Kipless/releases/latest">Releases</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3><a href="https://play.shiinalabs.com">Shiina Play</a></h3>
       <p>Small browser games that start in a click. No download or installation required.</p>
