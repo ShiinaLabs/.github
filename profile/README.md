@@ -71,6 +71,13 @@
         <a href="https://play.shiinalabs.com">Play now</a>
       </p>
     </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://tazuki.shiinalabs.com">Tazuki</a></h3>
+      <p>A native macOS workspace for following Xcode Cloud builds, failures, tests, and trends.</p>
+      <p>
+        <a href="https://tazuki.shiinalabs.com">Website</a>
+      </p>
+    </td>
   </tr>
 </table>
 
