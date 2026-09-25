@@ -96,6 +96,7 @@ We keep the surface area small and spend time on the details people use every da
 
 - [WiFi Lens](https://github.com/ShiinaLabs/wifi-lens), an Apache 2.0 macOS network diagnostics app
 - [ChartLens](https://github.com/ShiinaLabs/chart-lens), a SwiftUI chart library extracted from WiFi Lens
+- [MarkdownKit](https://github.com/ShiinaLabs/MarkdownKit), native Markdown rendering for macOS with AppKit, TextKit, and SwiftUI
 - [Homebrew Casks](https://github.com/ShiinaLabs/homebrew-apps) for Shiina Labs applications
 
 ## Find Shiina Labs
@@ -103,4 +104,4 @@ We keep the surface area small and spend time on the details people use every da
 - [shiinalabs.com](https://shiinalabs.com)
 - [Discord community](https://discord.gg/gH6sTCYaJ7)
 - [GitHub organization](https://github.com/ShiinaLabs)
-- [kaoru@shiinalabs.com](mailto:kaoru@shiinalabs.com)
+- [contacts@shiinalabs.com](mailto:contacts@shiinalabs.com)
