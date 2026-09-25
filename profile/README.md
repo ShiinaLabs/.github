@@ -40,10 +40,10 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://shiinalabs.com/tiny-planet/">Tiny Planet: Little World</a></h3>
-      <p>A small world that changes with real time. Offline, private, and made to revisit.</p>
+      <h3><a href="https://tazuki.shiinalabs.com">Tazuki</a></h3>
+      <p>A native macOS workspace for following Xcode Cloud builds, failures, tests, and trends.</p>
       <p>
-        <a href="https://shiinalabs.com/tiny-planet/">Learn more</a>
+        <a href="https://tazuki.shiinalabs.com">Website</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -65,10 +65,10 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://tazuki.shiinalabs.com">Tazuki</a></h3>
-      <p>A native macOS workspace for following Xcode Cloud builds, failures, tests, and trends.</p>
+      <h3><a href="https://shiinalabs.com/tiny-planet/">Tiny Planet: Little World</a></h3>
+      <p>A small world that changes with real time. Offline, private, and made to revisit.</p>
       <p>
-        <a href="https://tazuki.shiinalabs.com">Website</a>
+        <a href="https://shiinalabs.com/tiny-planet/">Learn more</a>
       </p>
     </td>
   </tr>
